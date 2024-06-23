@@ -2,8 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, eu sou alexandre, no momento estou no 4º periodo da faculdade de Analise e desenvolvimento de sistemas.
-  Estou fazendo tambem um curso de programação no Senac Barra da tijuca.
+Desenvolvedor Web Full Stack | Especialista em Python, Django, Bootstrap, MySQL, HTML, CSS, JavaScript 
 </p>
 
 <p align="left">
