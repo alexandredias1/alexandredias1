@@ -25,3 +25,6 @@ Desenvolvedor Web Full Stack | Especialista em C#, Python, Django, Bootstrap, My
   <a href="https://wa.me/5521983165800" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
+
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredias1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
