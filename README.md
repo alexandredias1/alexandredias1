@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Desenvolvedor Web Full Stack | Especialista em C#, Python, Django, Bootstrap, MySQL, HTML, CSS, JavaScript 
+Desenvolvedor | C#, Python, Django, Bootstrap, MySQL, HTML, CSS, JavaScript 
 </p>
 
 <p align="left">
